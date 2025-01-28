@@ -1,0 +1,159 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  text-align: center;
+  padding-top: 21px;
+  padding-bottom: 21px;
+  background-color: #343434;
+  margin: -8px;
+  color: #ffff;
+}
+
+.main {
+  margin: 63px 152px 80px;
+}
+
+.font-family-size {
+  padding-top: 30px;
+  font-size: 20px;
+  line-height: 10px;
+}
+
+hr {
+  border: 1px solid #e5e4e2;
+}
+.line-height {
+  line-height: 1.5;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.underline {
+  text-decoration-line: underline;
+}
+
+.class-name {
+  background-color: #ffe4e1;
+  padding: 10px;
+  border-radius: 5px;
+  color: #ce2029;
+}
+
+.italic {
+  font-style: italic;
+}
+
+#solutions {
+  font-weight: bold;
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #c0c0c0;
+}
+
+.solutions-parag-container {
+  font-style: italic;
+  color: #177245;
+}
+
+.box1 {
+  margin-top: 16px;
+  padding: 20px;
+  background-color: #ff8c00;
+  color: #fefefa;
+  border-radius: 5px;
+  opacity: 65%;
+}
+
+.box2 {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: #318ce7;
+  color: #fefefa;
+  border-radius: 5px;
+  opacity: 65%;
+}
+
+.box3 {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: green;
+  color: #fefefa;
+  border-radius: 5px;
+  opacity: 65%;
+}
+
+.box4 {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: #ce2029;
+  color: #fefefa;
+  border-radius: 5px;
+  opacity: 75%;
+}
+
+h3 {
+  margin: 20px 430px 20px;
+  padding: 8px 14px 12px;
+  text-align: center;
+  border: 1px solid #e5e4e2;
+}
+
+.project-highlight {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #f5f5f5;
+  margin-top: 10px;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid #c0c0c0;
+}
+
+.pricing {
+  text-align: center;
+  font-size: 24px;
+  line-height: 14px;
+}
+
+.line-through {
+  text-decoration: line-through;
+  color: #848482;
+  margin-right: 10px;
+}
+
+.sale-price {
+  font-weight: bold;
+  color: #dc143c;
+}
+
+.hr {
+  margin-bottom: -20px;
+}
+
+p.font-family-size {
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.email {
+  color: #177245;
+}
+
+.social-media-links img {
+  height: 20px;
+  width: 20px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  background-color: #343434;
+  margin: -5px -8px 40px;
+  color: #f5f5f5;
+}
