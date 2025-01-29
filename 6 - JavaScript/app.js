@@ -30,3 +30,10 @@ if (temperature < 0) {
 for (let i = 1; i <= 3; i++) {
   console.log("For Loop Count:", i);
 }
+
+// While Loop
+let count = 1;
+while (count <= 3) {
+  console.log("While Loop Count:", count);
+  count++;
+}
